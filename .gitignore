@@ -3,6 +3,8 @@ Release*/*
 bin/*
 x64/*
 .vs/
-obj
-pdb
-tlog
+*.obj
+*.pdb
+*.tlog
+*.log
+*.idb
